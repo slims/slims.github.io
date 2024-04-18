@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[2271],{619:(e,t,n)=>{n.r(t),n.d(t,{default:()=>u});var s=n(6540),a=(n(5489),n(4586)),i=n(3780);const u=()=>{const{siteConfig:e}=(0,a.A)();return s.createElement(i.A,{title:"SLiMS How To",description:"Description will go into a meta tag in <head />"},s.createElement("main",null))}}}]);
